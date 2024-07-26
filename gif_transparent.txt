@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gif</title>
+        
+    </head>
+
+    <body bgcolor="yellow">
+        <p id="top">
+        <h1>Adding GIF and Transparency GIF & PNG</h1>
+        <ul>
+            <li><a href="#gif">Adding Gifs </a></li>
+            <li><a href="#png">Adding PNGs </a></li>
+        </ul>
+        </p>
+            <br /> <br /> <br />
+    	<hr />
+    
+    	<p id="gif">    
+        <h2>Adding a GIF</h2>
+        <p>
+            <image src="GIFS/camoui.gif" alt="camoui" title="camoui-gif" width="400" hieght="240"></image>
+        </p>
+
+        <h2>Adding a Tranparetn GIF</h2>
+        <p>Making Money Online</p>
+        <img src="GIFS/Money Transp.gif" alt="Making Money" width="400" hieght="240"></img>
+        <br /> <br />
+        <h2>CAT</h2>
+        <image src="GIFS/CAT Transp.gif" width="400" hieght="240"></image>
+                        
+        </p>
+        <br /> <br /> <br />
+   	<hr />
+	<p id="png">
+            <h2>Adding PNGs</h2>
+            <p>PNG 1: Transparent </p>
+            <image src="GIFS/DORA PNG.png"></image>
+            <br />
+            <p>GRASS-FIELD</p>
+            <image src="GIFS/GRASS FIELD.png"></image>
+            <p> Tree Transparent PNG </p>
+            <image src="GIFS/TREE PNG.png"></image>
+            <br />
+        </p>
+
+    </body>
+
+
+</html>
